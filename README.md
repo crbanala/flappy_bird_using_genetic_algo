@@ -1,19 +1,28 @@
-# flappy_bird_using_genetic_algo
-Implementation of a self learning flappy bird using Genetic Algorithm.
+FlappyBirdClone
+===============
 
-The flappy bird game is the easiest game that could be automated.
-<br>
-The Game :
-<br>
-(i)The bird has to escape touching the never ending stream of vertical pipes (top and bottom) by flying through the gap between the two pipes.
-<br>
-(ii)The user control to the bird is that he could instruct the bird to flap by pressing the space key (generally).
-<br>
-(iii)whenever user presses the key the bird flaps and moves upward by a constant velocity ( which is unknown and the user has to percieve it through playing multiple times).
-<br>
-(iv)Another constarint here is the gravity. If we know the speed with which the bird flies up , we could work out the physics of the game and make it flap exactly whenever needed to and win the game.
-<br>
-(v)But , what if we used another way of playing the game instead of solving those cumbersome physics equations with some unknowns that are to be calculated using some experiments.
-<br>
-(vi)What if we use a neural network that decides whether to flap or not.
-<br>
+A Flappy Bird Clone made using [python-pygame][1]
+
+How-to
+------
+
+1. Install Python 2.7.X or 3.5.x from [here](https://www.python.org/download/releases/)
+
+2. Install PyGame 1.9.X from [here](http://www.pygame.org/download.shtml)
+
+3. Clone this repository: `git clone https://github.com/sourabhv/FlappyBirdClone.git` or click `Download ZIP` in right panel and extract it.
+
+4. Run `python flappy.py` from the repo's directory
+
+5. use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
+
+  (Note: Install pyGame for same version python as above)
+
+  (For x64 windows, get exe [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame))
+
+ScreenShot
+----------
+
+![Flappy Bird](screenshot1.png)
+
+[1]: http://www.pygame.org
