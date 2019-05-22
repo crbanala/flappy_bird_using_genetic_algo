@@ -2,8 +2,9 @@ The power of a simple neural network as a <b>universal approximator</b> can be d
 <br>
 The neural net here has to decide whether to flap or not at a particular instance using just the following known params:
 <br>
-<div style="padding-left: 5px">
-  <1.The horizantal distance from the next set of pipes
+
+<p style="padding-left: 5px">
+  1.The horizantal distance from the next set of pipes
  <br>
   2.The vertical height of the bird (or agent) from the ground
   <br>
@@ -11,7 +12,11 @@ The neural net here has to decide whether to flap or not at a particular instanc
   <br>
   4.The heights of both lower and upper pipes (i.e the height where the gap is).
   <br>
-</div>
+</p>
+
+
+
+
   <br>
   <br>
 One can easily solve this problem using simple physics by taking into the consideration of all the constrains posed by the game (like gravity in this case)
