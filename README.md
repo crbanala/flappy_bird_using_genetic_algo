@@ -11,11 +11,6 @@ The neural net here has to decide whether to flap or not at a particular instanc
   <br>
   4.The heights of both lower and upper pipes (i.e the height where the gap is).
   <br>
-
-
-
-
-
   <br>
   <br>
 One can easily solve this problem using simple physics by taking into the consideration of all the constrains posed by the game (like gravity in this case)
@@ -26,8 +21,7 @@ The solution of the optimal weights is found using a special search paradigm cal
 <br>
   More on it : <href>https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3</href>
   
-  
-  
+ <br>
  <br>
 <b>References:</b>
  <br>
