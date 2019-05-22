@@ -2,7 +2,7 @@ The power of a simple neural network as a <b>universal approximator</b> can be d
 <br>
 The neural net here has to decide whether to flap or not at a particular instance using just the following known params:
 <br>
-<div style="padding-right: 5px;">
+<div style="padding-left: 5px">
   <1.The horizantal distance from the next set of pipes
  <br>
   2.The vertical height of the bird (or agent) from the ground
