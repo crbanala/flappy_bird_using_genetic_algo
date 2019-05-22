@@ -1,28 +1,16 @@
-FlappyBirdClone
-===============
+The power of a simple neural network as a universal approximator can be demonstrated using this simple game of FlappyBird. 
+The neural net here has to decide whether to flap or not at a particular instance using just the following known params:
+  1.The distance from the next set of pipes
+  2.The vertical height of the bird (or agent) from the ground
+  3.The vertical speed it currently has.
+  4.The heights of both lower and upper pipes (i.e the height where the gap is).
 
-A Flappy Bird Clone made using [python-pygame][1]
-
-How-to
-------
-
-1. Install Python 2.7.X or 3.5.x from [here](https://www.python.org/download/releases/)
-
-2. Install PyGame 1.9.X from [here](http://www.pygame.org/download.shtml)
-
-3. Clone this repository: `git clone https://github.com/sourabhv/FlappyBirdClone.git` or click `Download ZIP` in right panel and extract it.
-
-4. Run `python flappy.py` from the repo's directory
-
-5. use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
-
-  (Note: Install pyGame for same version python as above)
-
-  (For x64 windows, get exe [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame))
-
-ScreenShot
-----------
-
-![Flappy Bird](screenshot1.png)
-
-[1]: http://www.pygame.org
+One can easily solve this problem using simple physics by 
+  
+  
+  
+  
+  
+References:
+  Most of the code for pygame graphics and image data was taken from https://github.com/sourabhv/FlappyBirdClone.git.
+  
