@@ -26,5 +26,4 @@ The solution of the optimal weights is found using a special search paradigm cal
 <b>References:</b>
  <br>
  Most of the code and image data for pygame graphics including code for controls is taken from :
- <href>https://github.com/sourabhv/FlappyBirdClone.git</href>.But most of it is restructured as a practice for clean and understandable code.
-  <br>
+ <href>https://github.com/sourabhv/FlappyBirdClone.git</href>.But most of it is restructured for better understanding.
