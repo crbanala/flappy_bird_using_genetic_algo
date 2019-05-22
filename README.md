@@ -16,7 +16,7 @@ One can easily solve this problem using simple physics by taking into the consid
 <br>
 But can a neural net learn this equation using the weights ??
 <br>
-The solution of the optimal weights is found using a special search paradigm called Genetic Algorithms.
+The solution of the optimal weights is found using a special search paradigm called <b>Genetic Algorithms</b>.
 <br>
   More on it : <href>https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3</href>
   
