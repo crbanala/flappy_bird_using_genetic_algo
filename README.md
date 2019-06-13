@@ -26,10 +26,10 @@ One can easily solve this problem using simple physics by taking into the consid
 But can a neural net learn this equation using the weights ??
 
 
-or better
+(or better)
 
 
-can the neural net capture the functional mapping of input of 4 params to boolean using just  4 * 3 + 3* 1 = 15   weights ??
+Can the neural net capture the functional mapping of input of 4 params to boolean using just  4 * 3 + 3* 1 = 15   weights ??
 
 
 
