@@ -13,9 +13,13 @@ The neural net here has to decide whether to flap or not at a particular instanc
   <br>
   <br>
   <br>
-One can easily solve this problem using simple physics by taking into the consideration of all the constrains posed by the game (like gravity in this case)
+One can easily solve this problem using simple physics by taking into the consideration of all the constraints posed by the game (like gravity in this case etc..)
 <br>
 But can a neural net learn this equation using the weights ??
+<br>
+or better
+<br>
+can the neural net capture the equation using just 4 * 3 + 3* 1 = 15 weights ??
 <br>
 The solution of the optimal weights is found using a special search paradigm called <b>Genetic Algorithms</b>.
 <br>
