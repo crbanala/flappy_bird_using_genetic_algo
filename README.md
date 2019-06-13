@@ -19,24 +19,27 @@ The neural net here has to decide whether to flap or not at a particular instanc
   4.The heights of both lower and upper pipes (i.e the height where the gap is).
 
 
-  <br>
+
 One can easily solve this problem using simple physics by taking into the consideration of all the constraints posed by the game (like gravity in this case etc..)
-<br>
+
+
 But can a neural net learn this equation using the weights ??
-<br>
+
+
 or better
-<br>
-can the neural net capture the equation using just  4 * 3 + 3* 1 = 15   weights ??
-<br>
-<br>
-<br>
-<br>
+
+
+can the neural net capture the functional mapping of input of 4 params to boolean using just  4 * 3 + 3* 1 = 15   weights ??
+
+
+
+
 The solution of the optimal weights is found using a special search paradigm called <b>Genetic Algorithms</b>.
-<br>
+
+
   More on it : <href>https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3</href>
-  
- <br>
- <br>
+
+
 # References:
  <br>
  Most of the code and image data for pygame graphics including code for controls is taken from :
