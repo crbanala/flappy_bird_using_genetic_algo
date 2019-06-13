@@ -19,7 +19,10 @@ But can a neural net learn this equation using the weights ??
 <br>
 or better
 <br>
-can the neural net capture the equation using just 4 * 3 + 3* 1 = 15 weights ??
+can the neural net capture the equation using just  4 * 3 + 3* 1 = 15   weights ??
+<br>
+<br>
+<br>
 <br>
 The solution of the optimal weights is found using a special search paradigm called <b>Genetic Algorithms</b>.
 <br>
