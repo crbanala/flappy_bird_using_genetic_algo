@@ -7,16 +7,16 @@ The neural net here has to decide whether to flap or not at a particular instanc
 
 
 
-  1.The horizantal distance from the next set of pipes
+  1. The horizantal distance from the next set of pipes
 
 
-  2.The vertical height of the bird (or agent) from the ground
+  2. The vertical height of the bird (or agent) from the ground
 
 
-  3.The vertical speed it currently has.
+  3. The vertical speed it currently has.
 
 
-  4.The heights of both lower and upper pipes (i.e the height where the gap is).
+  4. The heights of both lower and upper pipes (i.e the height where the gap is).
 
 
 
@@ -41,6 +41,7 @@ The solution of the optimal weights is found using a special search paradigm cal
 
 
 # References:
- <br>
  Most of the code and image data for pygame graphics including code for controls is taken from :
+ 
+ 
  <href>https://github.com/sourabhv/FlappyBirdClone.git</href>.But most of it is restructured for better understanding.
