@@ -1,3 +1,5 @@
+## Power Of a Neural Net
+
 The power of a simple neural network as a <b>universal approximator</b> can be demonstrated using this simple game of FlappyBird.
 <br>
 The neural net here has to decide whether to flap or not at a particular instance using just the following known params:
@@ -30,7 +32,7 @@ The solution of the optimal weights is found using a special search paradigm cal
   
  <br>
  <br>
-<b>References:</b>
+# References:
  <br>
  Most of the code and image data for pygame graphics including code for controls is taken from :
  <href>https://github.com/sourabhv/FlappyBirdClone.git</href>.But most of it is restructured for better understanding.
