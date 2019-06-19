@@ -42,7 +42,7 @@ The solution of the optimal weights is found using a special search paradigm cal
 
 # Training Process:
 
-<video width="640" height="360" src="flappy_training.mkv" autobuffer> <div class="fallback"> <p>You must have an HTML5 capable browser.</p> </div> </video>
+<video width="640" height="360" src="flappy_training.mkv"> </video>
 
 
 
