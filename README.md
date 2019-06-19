@@ -40,6 +40,12 @@ The solution of the optimal weights is found using a special search paradigm cal
   More on it : <href>https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3</href>
 
 
+# Training Process:
+
+<video width="640" height="360" src="flappy_training.mkv" autobuffer> <div class="fallback"> <p>You must have an HTML5 capable browser.</p> </div> </video>
+
+
+
 # References:
  Most of the code and image data for pygame graphics including code for controls is taken from :
  
