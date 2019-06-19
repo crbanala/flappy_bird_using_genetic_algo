@@ -41,8 +41,7 @@ The solution of the optimal weights is found using a special search paradigm cal
 
 
 # Training Process:
-
-<video width="640" height="360" src="flappy_training.mkv"> </video>
+<a href="https://imgflip.com/gif/33truk"><img src="https://i.imgflip.com/33truk.gif" title="made at imgflip.com"/></a>
 
 
 
