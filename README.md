@@ -34,7 +34,7 @@ Can the neural net capture the functional mapping of input of 4 params to boolea
 
 
 
-The solution of the optimal weights is found using a special search paradigm called <b>Genetic Algorithms</b>.
+The solution of the optimal weights is found using a simple search paradigm called <b>Genetic Algorithms</b>.
 
 
   More on it : <href>https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3</href>
