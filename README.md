@@ -3,7 +3,7 @@
 The power of a simple neural network as a <b>universal approximator</b> can be demonstrated using this simple game of FlappyBird.
 
 
-The neural net here has to decide whether to flap or not at a particular instance using just the following known params:
+The bird(neural net) here has to decide whether to flap or not at a particular instance using just the following known params:
 
 
 
