@@ -1,4 +1,4 @@
-## Power Of a Neural Net
+## Neural Net as Universal Approximator
 
 The power of a simple neural network as a <b>universal approximator</b> can be demonstrated using this simple game of FlappyBird.
 
